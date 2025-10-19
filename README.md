@@ -77,3 +77,4 @@ The interface is inspired by the **Blade Runner** aesthetic — glowing neon acc
 
 ## 🧮 Profit Example
 
+![Image](https://github.com/kucingsayabesar/get_rich/blob/main/screenshots/image.png)
